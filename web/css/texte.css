@@ -1,0 +1,66 @@
+div#login { 
+    text-align:right;  
+    font:"Trebuchet MS",Arial, Helvetica, sans-serif; 
+    margin:20px;
+}
+div#login { 
+    color:#FFFFFF}
+*{
+    margin:0; 
+    padding:0; 
+    boder:0;
+}
+
+div#menu{ 
+    width:1px;
+    height:50px;
+    background:#000;
+    margin-right:53%;
+}
+div#menu ul{ 
+    background:#999;
+    width:1000px;
+    height:50px; }
+div#menu ul li{
+    display:inline;
+}
+div#menu ul li a{
+    color:#fff;
+    font: 18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    float:left;
+    padding: 15px 84px;
+}
+div#menu ul li a:hover{
+    background:#6E6E6E;
+}
+
+
+div#cadastro {
+    text-align:left;
+    margin-left:24%;
+}
+div#cadastr input {
+    text-align:center;
+}
+
+div#descrisaoprod {
+    text-align:left;
+    margin-left:25%;
+}
+
+div#numeros {
+    text-align:left;
+    margin-left:24%;
+}
+
+div#produto1 a {
+    text-decoration:none;
+}
+div#produto1 a {
+    color:#FFFFFF;
+}
+body{
+    background-image: url("http://galileo.imta.mx/boletin_developed/imagenes/bg0.4.jpg");
+}
+
